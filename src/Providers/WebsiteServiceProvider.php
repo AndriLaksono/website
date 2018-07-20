@@ -9,7 +9,7 @@ class WebsiteServiceProvider extends ServiceProvider
 
     public function boot()
     {
-        // code...
+        info('AndriLaksono/Website bootstrapped..');
     }
 
     public function register()
