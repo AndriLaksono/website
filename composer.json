@@ -14,6 +14,13 @@
             "AndriLaksono\\Website\\": "src"
         }
     },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "AndriLaksono\\Website\\Providers\\WebsiteServiceProvider"
+            ]
+        }
+    },
     "license": "MIT",
     "authors": [
         {
